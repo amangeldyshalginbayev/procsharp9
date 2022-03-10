@@ -3,3 +3,7 @@
 bin
 obj
 .DS_Store
+Chapter_16/CSharpCarClient/selfcontained/*
+Chapter_16/CSharpCarClient/singlefile/*
+Chapter_16/CSharpCarClient/singleFileWithNativeLibs/*
+
