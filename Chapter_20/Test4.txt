@@ -1,0 +1,3 @@
+This text is written with File.Open() method!!!!!!System.Byte[]This line is appended >>>>>>>>
+
+This line is appended >>>>>>>>
